@@ -1,1 +1,1 @@
-# Inheritance
+# Inheritance Ensure that all files are in the same folder. Depending on how your running this code, you may have to compile the doctor,surgeon,nurse, and hospital employee class BEFORE you can compile and run the hospital class. 
